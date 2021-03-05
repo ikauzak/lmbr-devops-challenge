@@ -1,4 +1,4 @@
-# LMBR - DevOps desafio infraestrutura
+# DevOps - desafio infraestrutura
 
 
 O objetivo do desafio é a entrega automatizada de um **único** servidor pré configurado com uma aplicação WordPress (https://wordpress.org/).
